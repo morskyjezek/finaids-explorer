@@ -25,6 +25,8 @@ which enables the calls to query an API.
 ## Status
 
 This is an in-process project, as of June 2026.
+The code and pipeline in this repo were developed with significant input from claude code.
+
 Any code or data in this repository is for demonstration
 purposes only. While the code is made available
 under a GNU public licencse, there are no guarantees
