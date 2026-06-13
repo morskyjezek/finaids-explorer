@@ -1,9 +1,10 @@
 .DS_Store
 *.log
 .python-version
+chroma-db/
 
 # project specific docs
 notes.md
 claude-plan-20260611.md
+claude-plan-20260613-db-embedding.md
 id-list-202609.txt
-chroma-db/
